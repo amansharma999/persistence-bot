@@ -1,1 +1,1 @@
-worker: python3 persistentconcersationbot.py
+worker: python3 persistentconversationbot.py
