@@ -110,7 +110,7 @@ def done(update, context):
 def main():
     # Create the Updater and pass it your bot's token.
     pp = PicklePersistence(filename='conversationbot')
-    updater = Updater("TOKEN", persistence=pp, use_context=True)
+    updater = Updater("1252477129:AAEqOL4lydRD1Mn2hKxU6uuBrzA7krqY060", persistence=pp, use_context=True)
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
